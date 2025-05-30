@@ -4,3 +4,4 @@
 
 # Ignore all CSV files inside 'data' folder and subfolders
 data/**/*.csv
+data/*.csv
