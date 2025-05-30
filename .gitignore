@@ -4,4 +4,4 @@
 
 # Ignore all CSV files inside 'data' folder and subfolders
 data/**/*.csv
-data/*.csv
+data/*.csvdata/raw_analyst_ratings/raw_analyst_ratings.csv
